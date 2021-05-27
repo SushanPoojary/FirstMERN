@@ -1,0 +1,5 @@
+{
+    "mongoURI":
+      "mongodb+srv://test:test@firstmern.awlyn.mongodb.net/test?retryWrites=true&w=majority"
+  }
+  
